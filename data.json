@@ -1,0 +1,55 @@
+{
+    "cards": [
+      {
+        "frontText": "Hello",
+        "backText": "Merhaba",
+        "description": "used to greet someone"
+      },
+      {
+        "frontText": "Goodbye",
+        "backText": "Hoşça kal",
+        "description": "something you say when you leave someone or when they leave you"
+      },
+      {
+        "frontText": "Thank you",
+        "backText": "Teşekkür ederim",
+        "description": "used to tell someone that you are grateful because they have given you something or done something for you"
+      },
+      {
+        "frontText": "Please",
+        "backText": "Lütfen",
+        "description": "something that you say to be polite when you are asking for something or asking someone to do something"
+      },
+      {
+        "frontText": "Yes",
+        "backText": "Evet",
+        "description": "used to agree with something, or to give a positive answer to something "
+      },
+      {
+        "frontText": "No",
+        "backText": "Hayır",
+        "description": "something that you say in order to disagree, give a negative answer, or say that something is not true"
+      },
+      {
+        "frontText": "Excuse me",
+        "backText": "Affedersiniz",
+        "description": "to forgive someone for something that is not very serious"
+      },
+      {
+        "frontText": "Sorry",
+        "backText": "Üzgünüm",
+        "description": "Sorry"
+      },
+      {
+        "frontText": "How are you?",
+        "backText": "Nasılsın?",
+        "description": "used to ask about the way something happens or is done"
+      },
+      {
+        "frontText": "Good morning",
+        "backText": "Günaydın",
+        "description": "something you say to greet someone when you meet them in the morning"
+      }
+    ]
+  }
+  
